@@ -1,0 +1,13 @@
+card_type,tier,accounts,avg_balance
+classic,Basic,14,15546.0
+classic,Premium,357,63863.0
+classic,Standard,288,40851.0
+gold,Basic,1,19939.0
+gold,Premium,79,75087.0
+gold,Standard,8,38179.0
+junior,Basic,7,17271.0
+junior,Premium,78,64621.0
+junior,Standard,60,37780.0
+no card,Basic,1103,16361.0
+no card,Premium,611,63930.0
+no card,Standard,1894,32868.0

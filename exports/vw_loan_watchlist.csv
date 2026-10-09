@@ -1,0 +1,77 @@
+loan_id,account_id,loan_date,amount,duration_months,monthly_payment,status,status_desc,district_name,region,tier,balance_dec98,negative_months_1998,balance_cover
+5314,1787,1993-07-05,96396,12,8033.0,B,"Finished, unpaid",Sokolov,west Bohemia,Basic,5902.699999999988,0,Low cover
+6111,5428,1993-09-24,174744,24,7281.0,B,"Finished, unpaid",Karlovy Vary,west Bohemia,Premium,94420.59999999999,0,OK
+6228,6034,1993-12-01,464520,60,7742.0,B,"Finished, unpaid",Kutna Hora,central Bohemia,Standard,63893.600000000006,3,OK
+7097,10266,1993-12-23,75624,24,3151.0,B,"Finished, unpaid",Brno - mesto,south Moravia,Standard,17125.00000000002,0,OK
+6650,8073,1994-02-17,49320,12,4110.0,B,"Finished, unpaid",Karlovy Vary,west Bohemia,Premium,90064.69999999998,0,OK
+7066,10131,1994-05-02,215388,36,5983.0,B,"Finished, unpaid",Hl.m. Praha,Prague,Standard,12291.899999999992,0,Low cover
+6316,6473,1994-05-26,76908,12,6409.0,B,"Finished, unpaid",Pribram,central Bohemia,Standard,29843.799999999996,0,OK
+6210,5927,1994-06-06,87216,48,1817.0,B,"Finished, unpaid",Cesky Krumlov,south Bohemia,Basic,30125.199999999997,1,OK
+6112,5442,1994-06-17,174744,24,7281.0,B,"Finished, unpaid",Chomutov,north Bohemia,Premium,83369.4,0,OK
+6232,6051,1994-07-08,276660,36,7685.0,B,"Finished, unpaid",Breclav,south Moravia,Basic,10932.699999999999,0,Low cover
+5060,426,1994-07-19,252060,60,4201.0,D,"Running, in debt",Hl.m. Praha,Prague,Standard,29028.299999999996,0,OK
+5126,790,1994-07-24,208128,48,4336.0,B,"Finished, unpaid",Brno - mesto,south Moravia,Basic,29047.69999999998,0,OK
+5395,2176,1994-07-30,299088,36,8308.0,B,"Finished, unpaid",Bruntal,north Moravia,Basic,-1577.8999999999978,3,Overdrawn
+6594,7824,1994-09-28,189696,24,7904.0,B,"Finished, unpaid",Prostejov,south Moravia,Standard,28780.199999999993,0,OK
+6738,8566,1994-09-29,230220,36,6395.0,B,"Finished, unpaid",Ostrava - mesto,north Moravia,Standard,18680.19999999999,0,Low cover
+5176,1106,1994-11-12,192552,24,8023.0,B,"Finished, unpaid",Strakonice,south Bohemia,Basic,921.3000000000011,5,Low cover
+5269,1527,1994-11-19,164052,36,4557.0,B,"Finished, unpaid",Tachov,west Bohemia,Basic,30886.300000000003,0,OK
+7142,10451,1994-12-19,482940,60,8049.0,D,"Running, in debt",Hl.m. Praha,Prague,Basic,13695.3,0,Low cover
+5624,3166,1995-01-03,177744,48,3703.0,D,"Running, in debt",Novy Jicin,north Moravia,Premium,65365.29999999999,0,OK
+6244,6118,1995-01-08,270648,36,7518.0,B,"Finished, unpaid",Hl.m. Praha,Prague,Standard,38014.0,0,OK
+6358,6715,1995-01-14,137880,60,2298.0,D,"Running, in debt",Rychnov nad Kneznou,east Bohemia,Standard,33022.8,0,OK
+5724,3678,1995-02-05,316140,60,5269.0,D,"Running, in debt",Hl.m. Praha,Prague,Basic,-5680.4,12,Overdrawn
+6986,9750,1995-02-11,151728,48,3161.0,D,"Running, in debt",Ostrava - mesto,north Moravia,Standard,109124.40000000001,0,OK
+7241,11021,1995-03-04,168984,24,7041.0,B,"Finished, unpaid",Hl.m. Praha,Prague,Premium,108431.29999999999,0,OK
+6169,5700,1995-03-16,103680,60,1728.0,D,"Running, in debt",Havlickuv Brod,east Bohemia,Basic,-4887.4000000000015,12,Overdrawn
+5208,1247,1995-03-16,99696,48,2077.0,D,"Running, in debt",Klatovy,west Bohemia,Premium,101403.8,0,OK
+5352,1993,1995-04-15,68400,12,5700.0,B,"Finished, unpaid",Frydek - Mistek,north Moravia,Standard,51911.799999999996,1,OK
+5045,347,1995-05-01,187224,24,7801.0,B,"Finished, unpaid",Znojmo,south Moravia,Standard,55760.30000000001,1,OK
+6342,6609,1995-11-12,60156,36,1671.0,B,"Finished, unpaid",Jindrichuv Hradec,south Bohemia,Premium,99983.9,0,OK
+5805,4081,1995-11-28,137904,24,5746.0,B,"Finished, unpaid",Praha - zapad,central Bohemia,Basic,7056.499999999999,2,Low cover
+6013,4995,1996-02-03,128988,36,3583.0,D,"Running, in debt",Strakonice,south Bohemia,Standard,42395.899999999994,0,OK
+6027,5066,1996-02-10,61656,24,2569.0,B,"Finished, unpaid",Rakovnik,central Bohemia,Standard,59668.600000000006,1,OK
+6303,6400,1996-02-12,72408,24,3017.0,B,"Finished, unpaid",Tachov,west Bohemia,Premium,13392.80000000001,0,OK
+6175,5735,1996-02-21,290700,60,4845.0,D,"Running, in debt",Usti nad Orlici,east Bohemia,Premium,89025.09999999999,0,OK
+6816,9017,1996-03-26,100224,48,2088.0,D,"Running, in debt",Karvina,north Moravia,Basic,21413.2,0,OK
+5128,808,1996-04-11,215616,48,4492.0,D,"Running, in debt",Jesenik,north Moravia,Basic,30105.9,0,OK
+5593,3037,1996-04-18,277884,36,7719.0,D,"Running, in debt",Chrudim,east Bohemia,Basic,6026.800000000002,0,Low cover
+6063,5213,1996-04-25,320976,48,6687.0,D,"Running, in debt",Hl.m. Praha,Prague,Standard,89092.8,0,OK
+6501,7418,1996-04-29,30276,12,2523.0,B,"Finished, unpaid",Tabor,south Bohemia,Basic,16788.100000000002,0,OK
+4961,19,1996-04-29,30276,12,2523.0,B,"Finished, unpaid",Tabor,south Bohemia,Basic,10873.30000000001,0,OK
+5892,4462,1996-05-14,66480,24,2770.0,B,"Finished, unpaid",Opava,north Moravia,Standard,23779.100000000006,1,OK
+5282,1583,1996-08-24,388512,48,8094.0,D,"Running, in debt",Jesenik,north Moravia,Premium,67094.0,0,OK
+5606,3084,1996-08-28,253512,36,7042.0,D,"Running, in debt",Kromeriz,south Moravia,Standard,69241.7,0,OK
+6865,9199,1996-09-11,29448,12,2454.0,B,"Finished, unpaid",Olomouc,north Moravia,Basic,8399.899999999998,2,OK
+5415,2236,1996-09-26,139464,36,3874.0,D,"Running, in debt",Opava,north Moravia,Basic,-1453.7999999999995,2,Overdrawn
+5625,3189,1996-12-15,222180,60,3703.0,D,"Running, in debt",Rokycany,west Bohemia,Standard,17263.09999999999,0,OK
+7122,10365,1997-01-04,260640,36,7240.0,D,"Running, in debt",Domazlice,west Bohemia,Premium,55275.700000000004,0,OK
+6255,6158,1997-02-08,247920,48,5165.0,D,"Running, in debt",Bruntal,north Moravia,Premium,61288.3,1,OK
+6824,9052,1997-02-26,71976,24,2999.0,D,"Running, in debt",Hradec Kralove,east Bohemia,Standard,27755.899999999994,0,OK
+5931,4618,1997-03-17,66696,24,2779.0,D,"Running, in debt",Beroun,central Bohemia,Standard,-5846.099999999997,4,Overdrawn
+5784,3967,1997-03-29,84600,36,2350.0,D,"Running, in debt",Brno - mesto,south Moravia,Premium,85375.5,0,OK
+5363,2051,1997-04-22,293880,60,4898.0,D,"Running, in debt",Zlin,south Moravia,Premium,92530.79999999999,0,OK
+5072,472,1997-04-28,196800,24,8200.0,D,"Running, in debt",Mlada Boleslav,central Bohemia,Premium,30746.19999999998,0,OK
+5758,3859,1997-05-02,307200,60,5120.0,D,"Running, in debt",Blansko,south Moravia,Standard,20410.99999999999,2,OK
+6851,9138,1997-06-03,272220,60,4537.0,D,"Running, in debt",Plzen - mesto,west Bohemia,Standard,24792.099999999995,0,OK
+6959,9633,1997-06-30,59448,24,2477.0,D,"Running, in debt",Karvina,north Moravia,Standard,6893.400000000009,0,Low cover
+5063,442,1997-07-10,357840,48,7455.0,D,"Running, in debt",Brno - mesto,south Moravia,Standard,54376.5,0,OK
+6705,8381,1997-07-25,333648,48,6951.0,D,"Running, in debt",Ceske Budejovice,south Bohemia,Standard,11054.900000000001,1,Low cover
+5856,4320,1997-08-09,51360,12,4280.0,B,"Finished, unpaid",Trebic,south Moravia,Standard,40027.600000000006,1,OK
+5817,4127,1997-08-15,100800,24,4200.0,D,"Running, in debt",Svitavy,east Bohemia,Basic,384.3000000000006,1,Low cover
+5338,1888,1997-08-30,57360,12,4780.0,B,"Finished, unpaid",Kutna Hora,central Bohemia,Basic,-3387.199999999999,2,Overdrawn
+6625,7966,1997-09-07,473280,60,7888.0,D,"Running, in debt",Brno - mesto,south Moravia,Standard,27609.9,0,OK
+5643,3273,1997-09-21,94512,12,7876.0,B,"Finished, unpaid",Ostrava - mesto,north Moravia,Basic,-6138.399999999999,4,Overdrawn
+6239,6083,1997-09-28,360864,48,7518.0,D,"Running, in debt",Kutna Hora,central Bohemia,Basic,5057.399999999995,5,Low cover
+6655,8085,1997-10-17,260400,60,4340.0,D,"Running, in debt",Opava,north Moravia,Standard,51133.49999999999,0,OK
+5731,3711,1997-11-05,460980,60,7683.0,D,"Running, in debt",Beroun,central Bohemia,Basic,-2377.2999999999997,6,Overdrawn
+6437,7052,1997-11-09,63972,36,1777.0,D,"Running, in debt",Brno - venkov,south Moravia,Basic,30796.200000000004,1,OK
+5447,2335,1997-11-12,541200,60,9020.0,D,"Running, in debt",Karvina,north Moravia,Basic,-2838.6000000000004,11,Overdrawn
+6075,5267,1997-11-26,129312,24,5388.0,D,"Running, in debt",Kladno,central Bohemia,Standard,45836.899999999994,0,OK
+7209,10857,1997-11-30,385560,60,6426.0,D,"Running, in debt",Svitavy,east Bohemia,Basic,-5301.900000000001,3,Overdrawn
+4988,103,1997-12-06,265320,36,7370.0,D,"Running, in debt",Chrudim,east Bohemia,Standard,38023.1,0,OK
+5976,4794,1997-12-27,465504,48,9698.0,D,"Running, in debt",Olomouc,north Moravia,Basic,6052.799999999999,1,Low cover
+6237,6075,1998-01-06,407952,48,8499.0,D,"Running, in debt",Prachatice,south Bohemia,Basic,18036.8,0,Low cover
+6682,8225,1998-03-30,36204,12,3017.0,D,"Running, in debt",Svitavy,east Bohemia,Basic,37568.5,1,OK
+5991,4858,1998-07-27,335184,48,6983.0,D,"Running, in debt",Bruntal,north Moravia,Basic,33115.5,1,OK
+4967,37,1998-10-14,318480,60,5308.0,D,"Running, in debt",Strakonice,south Bohemia,Standard,45904.5,0,OK

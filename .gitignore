@@ -1,0 +1,5 @@
+data/*.asc
+data/raw/
+data/bank.db
+__pycache__/
+.DS_Store

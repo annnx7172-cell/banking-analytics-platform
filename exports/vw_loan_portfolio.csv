@@ -1,0 +1,408 @@
+region,district_name,status_desc,duration_months,loans,loan_amount,bad_amount,bad_loans
+Prague,Hl.m. Praha,"Finished, paid",12,16,822180,0,0
+Prague,Hl.m. Praha,"Finished, paid",24,8,514680,0,0
+Prague,Hl.m. Praha,"Finished, paid",36,6,781092,0,0
+Prague,Hl.m. Praha,"Finished, paid",48,3,592848,0,0
+Prague,Hl.m. Praha,"Finished, paid",60,1,274740,0,0
+Prague,Hl.m. Praha,"Finished, unpaid",24,1,168984,168984,1
+Prague,Hl.m. Praha,"Finished, unpaid",36,2,486036,486036,2
+Prague,Hl.m. Praha,"Running, OK",12,3,114444,0,0
+Prague,Hl.m. Praha,"Running, OK",24,8,923616,0,0
+Prague,Hl.m. Praha,"Running, OK",36,13,1747764,0,0
+Prague,Hl.m. Praha,"Running, OK",48,9,2160432,0,0
+Prague,Hl.m. Praha,"Running, OK",60,10,2973480,0,0
+Prague,Hl.m. Praha,"Running, in debt",48,1,320976,320976,1
+Prague,Hl.m. Praha,"Running, in debt",60,3,1051140,1051140,3
+central Bohemia,Benesov,"Finished, paid",24,1,107640,0,0
+central Bohemia,Benesov,"Running, OK",36,3,379764,0,0
+central Bohemia,Benesov,"Running, OK",48,1,314688,0,0
+central Bohemia,Benesov,"Running, OK",60,1,85860,0,0
+central Bohemia,Beroun,"Finished, paid",12,1,19248,0,0
+central Bohemia,Beroun,"Running, OK",24,1,139488,0,0
+central Bohemia,Beroun,"Running, OK",48,1,270384,0,0
+central Bohemia,Beroun,"Running, OK",60,1,504000,0,0
+central Bohemia,Beroun,"Running, in debt",24,1,66696,66696,1
+central Bohemia,Beroun,"Running, in debt",60,1,460980,460980,1
+central Bohemia,Kladno,"Finished, paid",24,1,21072,0,0
+central Bohemia,Kladno,"Finished, paid",48,1,63312,0,0
+central Bohemia,Kladno,"Running, OK",36,1,233424,0,0
+central Bohemia,Kladno,"Running, OK",60,3,659400,0,0
+central Bohemia,Kladno,"Running, in debt",24,1,129312,129312,1
+central Bohemia,Kolin,"Finished, paid",12,1,76080,0,0
+central Bohemia,Kolin,"Finished, paid",24,1,155640,0,0
+central Bohemia,Kolin,"Running, OK",24,1,87360,0,0
+central Bohemia,Kolin,"Running, OK",36,3,267480,0,0
+central Bohemia,Kolin,"Running, OK",60,4,1314600,0,0
+central Bohemia,Kutna Hora,"Finished, unpaid",12,1,57360,57360,1
+central Bohemia,Kutna Hora,"Finished, unpaid",60,1,464520,464520,1
+central Bohemia,Kutna Hora,"Running, OK",12,1,104964,0,0
+central Bohemia,Kutna Hora,"Running, OK",24,1,64224,0,0
+central Bohemia,Kutna Hora,"Running, OK",36,1,151200,0,0
+central Bohemia,Kutna Hora,"Running, OK",48,1,466608,0,0
+central Bohemia,Kutna Hora,"Running, OK",60,2,426240,0,0
+central Bohemia,Kutna Hora,"Running, in debt",48,1,360864,360864,1
+central Bohemia,Melnik,"Finished, paid",12,2,154884,0,0
+central Bohemia,Melnik,"Running, OK",12,1,38496,0,0
+central Bohemia,Melnik,"Running, OK",24,2,138912,0,0
+central Bohemia,Melnik,"Running, OK",48,1,225504,0,0
+central Bohemia,Mlada Boleslav,"Running, OK",24,1,97176,0,0
+central Bohemia,Mlada Boleslav,"Running, OK",36,2,291924,0,0
+central Bohemia,Mlada Boleslav,"Running, OK",60,1,31620,0,0
+central Bohemia,Mlada Boleslav,"Running, in debt",24,1,196800,196800,1
+central Bohemia,Nymburk,"Finished, paid",12,3,107040,0,0
+central Bohemia,Nymburk,"Finished, paid",24,2,137688,0,0
+central Bohemia,Nymburk,"Running, OK",36,1,52236,0,0
+central Bohemia,Nymburk,"Running, OK",48,1,144960,0,0
+central Bohemia,Nymburk,"Running, OK",60,2,563160,0,0
+central Bohemia,Praha - vychod,"Finished, paid",24,1,98592,0,0
+central Bohemia,Praha - vychod,"Finished, paid",48,1,172080,0,0
+central Bohemia,Praha - vychod,"Running, OK",24,1,160656,0,0
+central Bohemia,Praha - vychod,"Running, OK",48,1,155616,0,0
+central Bohemia,Praha - vychod,"Running, OK",60,1,272520,0,0
+central Bohemia,Praha - zapad,"Finished, paid",12,2,166956,0,0
+central Bohemia,Praha - zapad,"Finished, paid",24,1,126600,0,0
+central Bohemia,Praha - zapad,"Finished, paid",36,1,260028,0,0
+central Bohemia,Praha - zapad,"Finished, paid",48,2,218400,0,0
+central Bohemia,Praha - zapad,"Finished, unpaid",24,1,137904,137904,1
+central Bohemia,Praha - zapad,"Running, OK",12,1,49044,0,0
+central Bohemia,Praha - zapad,"Running, OK",24,1,59448,0,0
+central Bohemia,Praha - zapad,"Running, OK",48,1,164256,0,0
+central Bohemia,Praha - zapad,"Running, OK",60,1,50460,0,0
+central Bohemia,Pribram,"Finished, paid",24,1,143904,0,0
+central Bohemia,Pribram,"Finished, paid",36,1,105804,0,0
+central Bohemia,Pribram,"Finished, unpaid",12,1,76908,76908,1
+central Bohemia,Pribram,"Running, OK",12,1,40632,0,0
+central Bohemia,Pribram,"Running, OK",24,1,133800,0,0
+central Bohemia,Pribram,"Running, OK",36,1,74124,0,0
+central Bohemia,Pribram,"Running, OK",60,2,724020,0,0
+central Bohemia,Rakovnik,"Finished, paid",12,2,124452,0,0
+central Bohemia,Rakovnik,"Finished, paid",24,1,87840,0,0
+central Bohemia,Rakovnik,"Finished, unpaid",24,1,61656,61656,1
+central Bohemia,Rakovnik,"Running, OK",12,1,45456,0,0
+central Bohemia,Rakovnik,"Running, OK",36,2,378360,0,0
+central Bohemia,Rakovnik,"Running, OK",60,1,262980,0,0
+east Bohemia,Chrudim,"Finished, paid",12,1,77640,0,0
+east Bohemia,Chrudim,"Finished, paid",24,1,79608,0,0
+east Bohemia,Chrudim,"Running, OK",24,1,153936,0,0
+east Bohemia,Chrudim,"Running, OK",36,1,113436,0,0
+east Bohemia,Chrudim,"Running, OK",60,2,463860,0,0
+east Bohemia,Chrudim,"Running, in debt",36,2,543204,543204,2
+east Bohemia,Havlickuv Brod,"Finished, paid",12,1,38520,0,0
+east Bohemia,Havlickuv Brod,"Running, OK",12,1,23328,0,0
+east Bohemia,Havlickuv Brod,"Running, OK",48,4,1027680,0,0
+east Bohemia,Havlickuv Brod,"Running, in debt",60,1,103680,103680,1
+east Bohemia,Hradec Kralove,"Finished, paid",12,1,41952,0,0
+east Bohemia,Hradec Kralove,"Running, OK",36,1,124344,0,0
+east Bohemia,Hradec Kralove,"Running, OK",48,1,32640,0,0
+east Bohemia,Hradec Kralove,"Running, OK",60,1,359760,0,0
+east Bohemia,Hradec Kralove,"Running, in debt",24,1,71976,71976,1
+east Bohemia,Jicin,"Finished, paid",36,2,190728,0,0
+east Bohemia,Jicin,"Finished, paid",60,1,127080,0,0
+east Bohemia,Jicin,"Running, OK",36,1,50976,0,0
+east Bohemia,Jicin,"Running, OK",60,3,482580,0,0
+east Bohemia,Nachod,"Finished, paid",36,1,165960,0,0
+east Bohemia,Nachod,"Running, OK",48,3,948720,0,0
+east Bohemia,Nachod,"Running, OK",60,2,653700,0,0
+east Bohemia,Pardubice,"Finished, paid",24,1,28248,0,0
+east Bohemia,Pardubice,"Running, OK",24,2,85968,0,0
+east Bohemia,Pardubice,"Running, OK",36,2,371484,0,0
+east Bohemia,Pardubice,"Running, OK",48,3,604368,0,0
+east Bohemia,Pardubice,"Running, OK",60,2,558300,0,0
+east Bohemia,Rychnov nad Kneznou,"Finished, paid",24,1,7656,0,0
+east Bohemia,Rychnov nad Kneznou,"Running, OK",12,1,30012,0,0
+east Bohemia,Rychnov nad Kneznou,"Running, OK",36,1,238716,0,0
+east Bohemia,Rychnov nad Kneznou,"Running, OK",60,2,339780,0,0
+east Bohemia,Rychnov nad Kneznou,"Running, in debt",60,1,137880,137880,1
+east Bohemia,Semily,"Finished, paid",36,1,95400,0,0
+east Bohemia,Semily,"Running, OK",60,2,180780,0,0
+east Bohemia,Svitavy,"Finished, paid",24,1,141240,0,0
+east Bohemia,Svitavy,"Finished, paid",36,1,197748,0,0
+east Bohemia,Svitavy,"Running, OK",24,2,223272,0,0
+east Bohemia,Svitavy,"Running, OK",36,1,150912,0,0
+east Bohemia,Svitavy,"Running, OK",48,2,326448,0,0
+east Bohemia,Svitavy,"Running, OK",60,2,537900,0,0
+east Bohemia,Svitavy,"Running, in debt",12,1,36204,36204,1
+east Bohemia,Svitavy,"Running, in debt",24,1,100800,100800,1
+east Bohemia,Svitavy,"Running, in debt",60,1,385560,385560,1
+east Bohemia,Trutnov,"Finished, paid",12,1,42900,0,0
+east Bohemia,Trutnov,"Running, OK",24,1,78600,0,0
+east Bohemia,Trutnov,"Running, OK",48,1,288720,0,0
+east Bohemia,Trutnov,"Running, OK",60,3,666360,0,0
+east Bohemia,Usti nad Orlici,"Finished, paid",12,2,100104,0,0
+east Bohemia,Usti nad Orlici,"Finished, paid",24,2,190272,0,0
+east Bohemia,Usti nad Orlici,"Finished, paid",48,1,209184,0,0
+east Bohemia,Usti nad Orlici,"Running, OK",36,2,92556,0,0
+east Bohemia,Usti nad Orlici,"Running, OK",48,2,292944,0,0
+east Bohemia,Usti nad Orlici,"Running, OK",60,4,1037400,0,0
+east Bohemia,Usti nad Orlici,"Running, in debt",60,1,290700,290700,1
+north Bohemia,Ceska Lipa,"Finished, paid",12,1,87816,0,0
+north Bohemia,Ceska Lipa,"Finished, paid",24,1,91152,0,0
+north Bohemia,Ceska Lipa,"Running, OK",24,1,48096,0,0
+north Bohemia,Ceska Lipa,"Running, OK",36,1,162468,0,0
+north Bohemia,Ceska Lipa,"Running, OK",48,2,73152,0,0
+north Bohemia,Chomutov,"Finished, paid",12,2,134928,0,0
+north Bohemia,Chomutov,"Finished, paid",36,1,21852,0,0
+north Bohemia,Chomutov,"Finished, unpaid",24,1,174744,174744,1
+north Bohemia,Chomutov,"Running, OK",12,1,22104,0,0
+north Bohemia,Chomutov,"Running, OK",24,1,125472,0,0
+north Bohemia,Chomutov,"Running, OK",36,1,10944,0,0
+north Bohemia,Chomutov,"Running, OK",48,2,433872,0,0
+north Bohemia,Decin,"Finished, paid",24,1,46320,0,0
+north Bohemia,Decin,"Running, OK",12,1,17952,0,0
+north Bohemia,Decin,"Running, OK",24,1,155760,0,0
+north Bohemia,Decin,"Running, OK",48,1,289920,0,0
+north Bohemia,Jablonec n. Nisou,"Running, OK",48,1,127200,0,0
+north Bohemia,Liberec,"Running, OK",12,1,31260,0,0
+north Bohemia,Liberec,"Running, OK",24,1,43200,0,0
+north Bohemia,Liberec,"Running, OK",36,3,396972,0,0
+north Bohemia,Liberec,"Running, OK",48,1,475680,0,0
+north Bohemia,Liberec,"Running, OK",60,1,24180,0,0
+north Bohemia,Litomerice,"Finished, paid",24,2,224424,0,0
+north Bohemia,Litomerice,"Running, OK",24,1,133848,0,0
+north Bohemia,Litomerice,"Running, OK",48,2,202416,0,0
+north Bohemia,Litomerice,"Running, OK",60,2,555540,0,0
+north Bohemia,Louny,"Finished, paid",12,1,23628,0,0
+north Bohemia,Louny,"Finished, paid",24,1,87360,0,0
+north Bohemia,Louny,"Finished, paid",36,2,283464,0,0
+north Bohemia,Louny,"Running, OK",24,2,175200,0,0
+north Bohemia,Louny,"Running, OK",36,3,433836,0,0
+north Bohemia,Louny,"Running, OK",48,2,144048,0,0
+north Bohemia,Louny,"Running, OK",60,2,392520,0,0
+north Bohemia,Most,"Finished, paid",24,2,214608,0,0
+north Bohemia,Most,"Finished, paid",36,1,73836,0,0
+north Bohemia,Most,"Running, OK",48,1,73056,0,0
+north Bohemia,Most,"Running, OK",60,1,253560,0,0
+north Bohemia,Teplice,"Finished, paid",12,2,103860,0,0
+north Bohemia,Teplice,"Running, OK",12,1,42384,0,0
+north Bohemia,Teplice,"Running, OK",48,1,186384,0,0
+north Bohemia,Teplice,"Running, OK",60,2,540120,0,0
+north Bohemia,Usti nad Labem,"Finished, paid",24,2,224184,0,0
+north Bohemia,Usti nad Labem,"Running, OK",36,1,123300,0,0
+north Moravia,Bruntal,"Finished, paid",12,1,45768,0,0
+north Moravia,Bruntal,"Finished, paid",24,1,129408,0,0
+north Moravia,Bruntal,"Finished, unpaid",36,1,299088,299088,1
+north Moravia,Bruntal,"Running, OK",36,1,220428,0,0
+north Moravia,Bruntal,"Running, in debt",48,2,583104,583104,2
+north Moravia,Frydek - Mistek,"Finished, paid",12,4,142032,0,0
+north Moravia,Frydek - Mistek,"Finished, paid",24,2,176016,0,0
+north Moravia,Frydek - Mistek,"Finished, paid",60,1,259740,0,0
+north Moravia,Frydek - Mistek,"Finished, unpaid",12,1,68400,68400,1
+north Moravia,Frydek - Mistek,"Running, OK",12,1,57060,0,0
+north Moravia,Frydek - Mistek,"Running, OK",36,2,223092,0,0
+north Moravia,Frydek - Mistek,"Running, OK",48,2,206352,0,0
+north Moravia,Frydek - Mistek,"Running, OK",60,3,921060,0,0
+north Moravia,Jesenik,"Finished, paid",12,1,90156,0,0
+north Moravia,Jesenik,"Finished, paid",24,1,84120,0,0
+north Moravia,Jesenik,"Running, OK",24,2,316728,0,0
+north Moravia,Jesenik,"Running, OK",60,2,843300,0,0
+north Moravia,Jesenik,"Running, in debt",48,2,604128,604128,2
+north Moravia,Karvina,"Finished, paid",12,7,521160,0,0
+north Moravia,Karvina,"Finished, paid",24,2,224664,0,0
+north Moravia,Karvina,"Running, OK",12,1,109344,0,0
+north Moravia,Karvina,"Running, OK",24,1,55632,0,0
+north Moravia,Karvina,"Running, OK",36,1,188532,0,0
+north Moravia,Karvina,"Running, OK",48,5,991056,0,0
+north Moravia,Karvina,"Running, OK",60,4,268560,0,0
+north Moravia,Karvina,"Running, in debt",24,1,59448,59448,1
+north Moravia,Karvina,"Running, in debt",48,1,100224,100224,1
+north Moravia,Karvina,"Running, in debt",60,1,541200,541200,1
+north Moravia,Novy Jicin,"Finished, paid",12,1,27456,0,0
+north Moravia,Novy Jicin,"Running, OK",24,2,221760,0,0
+north Moravia,Novy Jicin,"Running, OK",36,1,112752,0,0
+north Moravia,Novy Jicin,"Running, OK",48,1,154656,0,0
+north Moravia,Novy Jicin,"Running, in debt",48,1,177744,177744,1
+north Moravia,Olomouc,"Finished, paid",24,1,187104,0,0
+north Moravia,Olomouc,"Finished, paid",36,2,411120,0,0
+north Moravia,Olomouc,"Finished, unpaid",12,1,29448,29448,1
+north Moravia,Olomouc,"Running, OK",12,2,66228,0,0
+north Moravia,Olomouc,"Running, OK",36,2,240192,0,0
+north Moravia,Olomouc,"Running, OK",48,4,828000,0,0
+north Moravia,Olomouc,"Running, OK",60,1,60000,0,0
+north Moravia,Olomouc,"Running, in debt",48,1,465504,465504,1
+north Moravia,Opava,"Finished, paid",12,1,74040,0,0
+north Moravia,Opava,"Finished, unpaid",24,1,66480,66480,1
+north Moravia,Opava,"Running, OK",36,1,168264,0,0
+north Moravia,Opava,"Running, OK",48,1,231168,0,0
+north Moravia,Opava,"Running, OK",60,2,553260,0,0
+north Moravia,Opava,"Running, in debt",36,1,139464,139464,1
+north Moravia,Opava,"Running, in debt",60,1,260400,260400,1
+north Moravia,Ostrava - mesto,"Finished, paid",12,3,188508,0,0
+north Moravia,Ostrava - mesto,"Finished, paid",24,3,216168,0,0
+north Moravia,Ostrava - mesto,"Finished, unpaid",12,1,94512,94512,1
+north Moravia,Ostrava - mesto,"Finished, unpaid",36,1,230220,230220,1
+north Moravia,Ostrava - mesto,"Running, OK",24,4,451728,0,0
+north Moravia,Ostrava - mesto,"Running, OK",36,1,214596,0,0
+north Moravia,Ostrava - mesto,"Running, OK",48,3,648720,0,0
+north Moravia,Ostrava - mesto,"Running, OK",60,3,1064040,0,0
+north Moravia,Ostrava - mesto,"Running, in debt",48,1,151728,151728,1
+north Moravia,Prerov,"Finished, paid",12,2,113880,0,0
+north Moravia,Prerov,"Finished, paid",36,1,182628,0,0
+north Moravia,Prerov,"Running, OK",60,1,399120,0,0
+north Moravia,Sumperk,"Running, OK",36,1,88200,0,0
+north Moravia,Sumperk,"Running, OK",48,3,710304,0,0
+north Moravia,Sumperk,"Running, OK",60,1,31140,0,0
+north Moravia,Vsetin,"Finished, paid",24,1,173808,0,0
+north Moravia,Vsetin,"Running, OK",12,2,91860,0,0
+north Moravia,Vsetin,"Running, OK",24,1,87528,0,0
+north Moravia,Vsetin,"Running, OK",36,1,48744,0,0
+north Moravia,Vsetin,"Running, OK",60,1,89040,0,0
+south Bohemia,Ceske Budejovice,"Finished, paid",24,1,117024,0,0
+south Bohemia,Ceske Budejovice,"Running, OK",36,1,173016,0,0
+south Bohemia,Ceske Budejovice,"Running, OK",48,3,744816,0,0
+south Bohemia,Ceske Budejovice,"Running, OK",60,2,642420,0,0
+south Bohemia,Ceske Budejovice,"Running, in debt",48,1,333648,333648,1
+south Bohemia,Cesky Krumlov,"Finished, paid",12,3,118560,0,0
+south Bohemia,Cesky Krumlov,"Finished, unpaid",48,1,87216,87216,1
+south Bohemia,Cesky Krumlov,"Running, OK",24,1,66840,0,0
+south Bohemia,Cesky Krumlov,"Running, OK",48,1,170832,0,0
+south Bohemia,Cesky Krumlov,"Running, OK",60,1,140880,0,0
+south Bohemia,Jindrichuv Hradec,"Finished, paid",12,2,122616,0,0
+south Bohemia,Jindrichuv Hradec,"Finished, paid",24,2,336216,0,0
+south Bohemia,Jindrichuv Hradec,"Finished, unpaid",36,1,60156,60156,1
+south Bohemia,Jindrichuv Hradec,"Running, OK",36,3,408744,0,0
+south Bohemia,Jindrichuv Hradec,"Running, OK",48,3,411840,0,0
+south Bohemia,Pelhrimov,"Finished, paid",12,1,91632,0,0
+south Bohemia,Pelhrimov,"Running, OK",36,2,171900,0,0
+south Bohemia,Pelhrimov,"Running, OK",60,1,152160,0,0
+south Bohemia,Pisek,"Finished, paid",48,1,154416,0,0
+south Bohemia,Pisek,"Running, OK",36,1,163332,0,0
+south Bohemia,Pisek,"Running, OK",48,1,159744,0,0
+south Bohemia,Prachatice,"Finished, paid",12,1,53076,0,0
+south Bohemia,Prachatice,"Finished, paid",24,3,346416,0,0
+south Bohemia,Prachatice,"Finished, paid",36,1,265320,0,0
+south Bohemia,Prachatice,"Running, OK",12,1,41256,0,0
+south Bohemia,Prachatice,"Running, OK",24,2,265536,0,0
+south Bohemia,Prachatice,"Running, OK",48,3,398976,0,0
+south Bohemia,Prachatice,"Running, OK",60,2,578160,0,0
+south Bohemia,Prachatice,"Running, in debt",48,1,407952,407952,1
+south Bohemia,Strakonice,"Finished, paid",12,1,97632,0,0
+south Bohemia,Strakonice,"Finished, unpaid",24,1,192552,192552,1
+south Bohemia,Strakonice,"Running, OK",60,2,486840,0,0
+south Bohemia,Strakonice,"Running, in debt",36,1,128988,128988,1
+south Bohemia,Strakonice,"Running, in debt",60,1,318480,318480,1
+south Bohemia,Tabor,"Finished, paid",12,2,203712,0,0
+south Bohemia,Tabor,"Finished, unpaid",12,2,60552,60552,2
+south Bohemia,Tabor,"Running, OK",36,1,156096,0,0
+south Bohemia,Tabor,"Running, OK",48,1,352704,0,0
+south Bohemia,Tabor,"Running, OK",60,1,191880,0,0
+south Moravia,Blansko,"Finished, paid",12,2,37548,0,0
+south Moravia,Blansko,"Finished, paid",24,1,110112,0,0
+south Moravia,Blansko,"Running, OK",36,1,176328,0,0
+south Moravia,Blansko,"Running, OK",48,1,389136,0,0
+south Moravia,Blansko,"Running, OK",60,1,170700,0,0
+south Moravia,Blansko,"Running, in debt",60,1,307200,307200,1
+south Moravia,Breclav,"Finished, paid",48,1,123696,0,0
+south Moravia,Breclav,"Finished, unpaid",36,1,276660,276660,1
+south Moravia,Breclav,"Running, OK",12,1,12792,0,0
+south Moravia,Breclav,"Running, OK",36,1,185544,0,0
+south Moravia,Breclav,"Running, OK",60,3,578100,0,0
+south Moravia,Brno - mesto,"Finished, paid",12,3,99636,0,0
+south Moravia,Brno - mesto,"Finished, paid",36,1,113796,0,0
+south Moravia,Brno - mesto,"Finished, unpaid",24,1,75624,75624,1
+south Moravia,Brno - mesto,"Finished, unpaid",48,1,208128,208128,1
+south Moravia,Brno - mesto,"Running, OK",12,2,151800,0,0
+south Moravia,Brno - mesto,"Running, OK",24,1,67608,0,0
+south Moravia,Brno - mesto,"Running, OK",36,2,167256,0,0
+south Moravia,Brno - mesto,"Running, OK",48,4,900672,0,0
+south Moravia,Brno - mesto,"Running, OK",60,6,1349160,0,0
+south Moravia,Brno - mesto,"Running, in debt",36,1,84600,84600,1
+south Moravia,Brno - mesto,"Running, in debt",48,1,357840,357840,1
+south Moravia,Brno - mesto,"Running, in debt",60,1,473280,473280,1
+south Moravia,Brno - venkov,"Finished, paid",12,2,86088,0,0
+south Moravia,Brno - venkov,"Finished, paid",24,1,121896,0,0
+south Moravia,Brno - venkov,"Finished, paid",36,1,21924,0,0
+south Moravia,Brno - venkov,"Running, OK",12,1,52512,0,0
+south Moravia,Brno - venkov,"Running, OK",36,2,218448,0,0
+south Moravia,Brno - venkov,"Running, OK",48,1,249792,0,0
+south Moravia,Brno - venkov,"Running, OK",60,1,417600,0,0
+south Moravia,Brno - venkov,"Running, in debt",36,1,63972,63972,1
+south Moravia,Hodonin,"Finished, paid",12,1,23184,0,0
+south Moravia,Hodonin,"Finished, paid",36,1,205200,0,0
+south Moravia,Hodonin,"Running, OK",48,4,963120,0,0
+south Moravia,Jihlava,"Running, OK",24,1,68664,0,0
+south Moravia,Jihlava,"Running, OK",48,1,20352,0,0
+south Moravia,Jihlava,"Running, OK",60,2,277080,0,0
+south Moravia,Kromeriz,"Finished, paid",12,1,18324,0,0
+south Moravia,Kromeriz,"Running, OK",24,4,286512,0,0
+south Moravia,Kromeriz,"Running, OK",48,1,153504,0,0
+south Moravia,Kromeriz,"Running, OK",60,2,248220,0,0
+south Moravia,Kromeriz,"Running, in debt",36,1,253512,253512,1
+south Moravia,Prostejov,"Finished, paid",12,1,82896,0,0
+south Moravia,Prostejov,"Finished, paid",36,1,192744,0,0
+south Moravia,Prostejov,"Finished, unpaid",24,1,189696,189696,1
+south Moravia,Prostejov,"Running, OK",36,2,103716,0,0
+south Moravia,Prostejov,"Running, OK",60,4,569760,0,0
+south Moravia,Trebic,"Finished, paid",12,2,97188,0,0
+south Moravia,Trebic,"Finished, paid",24,1,139536,0,0
+south Moravia,Trebic,"Finished, unpaid",12,1,51360,51360,1
+south Moravia,Trebic,"Running, OK",24,1,116496,0,0
+south Moravia,Trebic,"Running, OK",60,1,225420,0,0
+south Moravia,Uherske Hradiste,"Finished, paid",12,1,37908,0,0
+south Moravia,Uherske Hradiste,"Running, OK",24,1,76104,0,0
+south Moravia,Uherske Hradiste,"Running, OK",36,1,192744,0,0
+south Moravia,Uherske Hradiste,"Running, OK",48,4,636624,0,0
+south Moravia,Uherske Hradiste,"Running, OK",60,3,738660,0,0
+south Moravia,Vyskov,"Finished, paid",12,1,4980,0,0
+south Moravia,Vyskov,"Finished, paid",36,2,382356,0,0
+south Moravia,Vyskov,"Running, OK",24,2,131736,0,0
+south Moravia,Vyskov,"Running, OK",36,1,71820,0,0
+south Moravia,Vyskov,"Running, OK",60,1,186300,0,0
+south Moravia,Zdar nad Sazavou,"Finished, paid",12,2,172788,0,0
+south Moravia,Zdar nad Sazavou,"Finished, paid",24,2,231192,0,0
+south Moravia,Zdar nad Sazavou,"Running, OK",12,1,88608,0,0
+south Moravia,Zdar nad Sazavou,"Running, OK",48,1,465072,0,0
+south Moravia,Zdar nad Sazavou,"Running, OK",60,1,368880,0,0
+south Moravia,Zlin,"Finished, paid",12,3,182208,0,0
+south Moravia,Zlin,"Finished, paid",24,2,102672,0,0
+south Moravia,Zlin,"Finished, paid",36,1,227880,0,0
+south Moravia,Zlin,"Running, OK",36,2,374940,0,0
+south Moravia,Zlin,"Running, OK",48,6,1182768,0,0
+south Moravia,Zlin,"Running, OK",60,2,648420,0,0
+south Moravia,Zlin,"Running, in debt",60,1,293880,293880,1
+south Moravia,Znojmo,"Finished, paid",24,1,98184,0,0
+south Moravia,Znojmo,"Finished, unpaid",24,1,187224,187224,1
+south Moravia,Znojmo,"Running, OK",36,1,113544,0,0
+south Moravia,Znojmo,"Running, OK",48,3,545424,0,0
+west Bohemia,Cheb,"Finished, paid",12,1,74688,0,0
+west Bohemia,Cheb,"Finished, paid",48,1,196080,0,0
+west Bohemia,Cheb,"Running, OK",48,2,168048,0,0
+west Bohemia,Domazlice,"Running, OK",24,1,136368,0,0
+west Bohemia,Domazlice,"Running, in debt",36,1,260640,260640,1
+west Bohemia,Karlovy Vary,"Finished, paid",12,1,95808,0,0
+west Bohemia,Karlovy Vary,"Finished, paid",24,2,112416,0,0
+west Bohemia,Karlovy Vary,"Finished, unpaid",12,1,49320,49320,1
+west Bohemia,Karlovy Vary,"Finished, unpaid",24,1,174744,174744,1
+west Bohemia,Karlovy Vary,"Running, OK",24,1,72504,0,0
+west Bohemia,Karlovy Vary,"Running, OK",36,1,19044,0,0
+west Bohemia,Karlovy Vary,"Running, OK",60,1,321360,0,0
+west Bohemia,Klatovy,"Running, OK",60,2,171180,0,0
+west Bohemia,Klatovy,"Running, in debt",48,1,99696,99696,1
+west Bohemia,Plzen - jih,"Finished, paid",12,1,12540,0,0
+west Bohemia,Plzen - jih,"Finished, paid",36,1,300204,0,0
+west Bohemia,Plzen - jih,"Running, OK",12,1,37812,0,0
+west Bohemia,Plzen - jih,"Running, OK",36,2,260496,0,0
+west Bohemia,Plzen - jih,"Running, OK",48,2,143376,0,0
+west Bohemia,Plzen - jih,"Running, OK",60,2,539760,0,0
+west Bohemia,Plzen - mesto,"Finished, paid",24,1,29784,0,0
+west Bohemia,Plzen - mesto,"Running, OK",24,1,66432,0,0
+west Bohemia,Plzen - mesto,"Running, OK",48,2,308448,0,0
+west Bohemia,Plzen - mesto,"Running, OK",60,1,79920,0,0
+west Bohemia,Plzen - mesto,"Running, in debt",60,1,272220,272220,1
+west Bohemia,Plzen - sever,"Finished, paid",36,2,404820,0,0
+west Bohemia,Plzen - sever,"Running, OK",36,1,90180,0,0
+west Bohemia,Plzen - sever,"Running, OK",48,1,385584,0,0
+west Bohemia,Plzen - sever,"Running, OK",60,3,458400,0,0
+west Bohemia,Rokycany,"Finished, paid",24,1,51408,0,0
+west Bohemia,Rokycany,"Running, OK",24,1,82128,0,0
+west Bohemia,Rokycany,"Running, OK",36,1,26208,0,0
+west Bohemia,Rokycany,"Running, OK",48,2,432240,0,0
+west Bohemia,Rokycany,"Running, OK",60,2,515040,0,0
+west Bohemia,Rokycany,"Running, in debt",60,1,222180,222180,1
+west Bohemia,Sokolov,"Finished, paid",24,1,52128,0,0
+west Bohemia,Sokolov,"Finished, unpaid",12,1,96396,96396,1
+west Bohemia,Tachov,"Finished, paid",12,2,98244,0,0
+west Bohemia,Tachov,"Finished, paid",24,2,197688,0,0
+west Bohemia,Tachov,"Finished, paid",36,1,224604,0,0
+west Bohemia,Tachov,"Finished, unpaid",24,1,72408,72408,1
+west Bohemia,Tachov,"Finished, unpaid",36,1,164052,164052,1
+west Bohemia,Tachov,"Running, OK",36,1,202788,0,0

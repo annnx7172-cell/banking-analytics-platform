@@ -1,0 +1,4 @@
+tier,accounts,avg_balance,card_penetration_pct,loans,bad_loan_pct,accounts_overdrawn_1998
+Basic,1125,16360.0,2.0,82,36.6,82
+Premium,1125,64740.0,45.7,246,6.1,2
+Standard,2250,34040.0,15.8,354,8.8,23

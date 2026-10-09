@@ -1,0 +1,25 @@
+run_ts,check_name,layer,severity,failed_rows,status,description
+2026-10-09T15:38:02,DISTRICT_MISSING_VALUE,raw,FAIL,1,FAIL,District rows with ? placeholders in unemployment_95 / crimes_95
+2026-10-09T15:38:02,TXN_SYMBOL_INCONSISTENT_ENCODING,raw,FAIL,53433,FAIL,k_symbol uses a single space for none while other rows use NULL
+2026-10-09T15:38:02,TXN_LEGACY_TYPE_CODE,raw,FAIL,16666,FAIL,type=VYBER duplicates the withdrawal code VYDAJ
+2026-10-09T15:38:02,TXN_ZERO_AMOUNT,raw,FAIL,14,FAIL,Transactions with amount = 0
+2026-10-09T15:38:02,TXN_DUPLICATE_POSTING,raw,FAIL,1,FAIL,Same account/date/type/amount/balance/symbol posted under different trans_id
+2026-10-09T15:38:02,TRANSFER_MISSING_COUNTERPARTY,raw,FAIL,1,FAIL,Transfer without partner bank or account
+2026-10-09T15:38:02,TXN_NULL_OPERATION_UNEXPLAINED,raw,FAIL,0,PASS,Null operation on rows that are not interest postings
+2026-10-09T15:38:02,NEGATIVE_BALANCE_TXNS,stg,WARN,2999,WARN,Transactions leaving the account with a negative reported balance
+2026-10-09T15:38:02,BALANCE_RECON_ACCOUNT,stg,FAIL,64,FAIL,Accounts where summed signed flows differ from last reported balance by more than 1.0
+2026-10-09T15:38:02,FK_DISP_CLIENT,raw,FAIL,0,PASS,disp rows whose client is missing
+2026-10-09T15:38:02,FK_DISP_ACCOUNT,raw,FAIL,0,PASS,disp rows whose account is missing
+2026-10-09T15:38:02,FK_LOAN_ACCOUNT,raw,FAIL,0,PASS,loans whose account is missing
+2026-10-09T15:38:02,FK_TRANS_ACCOUNT,raw,FAIL,0,PASS,transactions whose account is missing
+2026-10-09T15:38:02,FK_CARD_DISP,raw,FAIL,0,PASS,cards whose disposition is missing
+2026-10-09T15:38:02,FK_CLIENT_DISTRICT,raw,FAIL,0,PASS,clients whose district is missing
+2026-10-09T15:38:02,ACCOUNT_WITHOUT_OWNER,raw,FAIL,0,PASS,Accounts with no OWNER disposition
+2026-10-09T15:38:02,ACCOUNT_MULTIPLE_OWNERS,raw,FAIL,0,PASS,Accounts with more than one OWNER
+2026-10-09T15:38:02,LOAN_PAYMENT_ARITHMETIC,raw,FAIL,0,PASS,Loans where payments x duration differs from amount by >1%
+2026-10-09T15:38:02,LOAN_BEFORE_ACCOUNT_OPEN,stg,FAIL,0,PASS,Loans dated before the account was opened
+2026-10-09T15:38:02,CARD_BEFORE_ACCOUNT_OPEN,stg,FAIL,0,PASS,Cards issued before the account was opened
+2026-10-09T15:38:02,TXN_BEFORE_ACCOUNT_OPEN,stg,FAIL,0,PASS,Transactions dated before the account was opened
+2026-10-09T15:38:02,CLIENT_INVALID_BIRTH_DATE,stg,FAIL,0,PASS,Clients whose derived birth date is not a valid date
+2026-10-09T15:38:02,RECON_RAW_VS_STG_TRANS,recon,FAIL,0,PASS,raw rows must equal staging + rejected rows
+2026-10-09T15:38:02,RECON_ACCOUNT_MONTH_SPINE,mart,FAIL,0,PASS,Every account must appear in the account-360 mart
